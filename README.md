@@ -1,16 +1,22 @@
-### Hi there 👋
+# Full Stack Developer
 
-<!--
-**PremSaiArroju/PremSaiArroju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Summary
+- Passionate full stack developer
+- Committed to continuous learning and excellence
+- Experienced in dynamic development environments
 
-Here are some ideas to get you started:
+## Technical Skills
+- Frontend Development
+  - Proficient in JavaScript, React.js, HTML5, CSS3, Tailwind
+- Backend Development
+  - Skilled in Python, Node.js, Express.js, Django, Flask
+- Database Management
+  - Experienced with MongoDB, PostgreSQL, MySQL
+- DevOps and Deployment
+  - Familiar with AWS, Jenkins
+- Version Control Systems
+  - Proficient in Git and GitHub usage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience
+- Software Developer at Accenture
+
