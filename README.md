@@ -9,7 +9,7 @@
 - Frontend Development
   - Proficient in JavaScript, HTML5, CSS3, Tailwind CSS, Next.js
 - Backend Development
-  - Skilled in Python, JavaScript, Node.js
+  - Skilled in Python, JavaScript, Node.js, Mongoose, Express.js
 - Database Management
   - Experienced with MySQL, Oracle
 - DevOps and Deployment
