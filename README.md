@@ -1,21 +1,23 @@
 # Becoming a Full Stack Developer
 
 ## Professional Summary
-- Passionate full stack developer
+- Full Stack Developer
 - Committed to continuous learning and excellence
-- Experienced in dynamic development environments
+- Experienced in Dynamic Development Environments
 
 ## Technical Skills
 - Frontend Development
-  - Proficient in JavaScript, HTML5, CSS3
+  - Proficient in JavaScript, HTML5, CSS3, Tailwind CSS
 - Backend Development
   - Skilled in Python
 - Database Management
-  - Experienced with MySQL
+  - Experienced with MySQL, Oracle
 - DevOps and Deployment
   - Familiar with AWS, Jenkins
 - Version Control Systems
   - Proficient in Git and GitHub usage
+- Project Management Tools
+  - JIRA, Firebase, Monday.com
 
 ## Work Experience
 - Ex Software Developer at Accenture
