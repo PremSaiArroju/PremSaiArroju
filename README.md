@@ -13,7 +13,7 @@
 - Database Management
   - Experienced with MySQL, Oracle
 - DevOps and Deployment
-  - Familiar with AWS, Jenkins
+  - Familiar with AWS, Docker, Kubernetes, Jenkins, IDOP
 - Version Control Systems
   - Proficient in Git and GitHub usage
 - Project Management Tools
