@@ -7,9 +7,9 @@
 
 ## Technical Skills
 - Frontend Development
-  - Proficient in JavaScript, HTML5, CSS3, Tailwind CSS
+  - Proficient in JavaScript, HTML5, CSS3, Tailwind CSS, Next.js
 - Backend Development
-  - Skilled in Python
+  - Skilled in Python, JavaScript, Node.js
 - Database Management
   - Experienced with MySQL, Oracle
 - DevOps and Deployment
