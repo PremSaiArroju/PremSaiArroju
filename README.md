@@ -7,22 +7,23 @@
 
 ## Technical Skills
 - Frontend Development
-  - Proficient in JavaScript, HTML5, CSS3, Tailwind CSS, Next.js
+  - Proficient in JavaScript, HTML5, CSS3, React, Tailwind CSS, Next.js
 - Backend Development
-  - Skilled in Python, JavaScript, Node.js, Mongoose, Express.js
+  - Skilled in Python, JavaScript, Node.js, Express.js
 - Database Management
-  - Experienced with MySQL, Oracle
+  - Experienced with MySQL, Oracle, PostgreSQL
 - DevOps and Deployment
-  - Familiar with AWS, Docker, Kubernetes, Jenkins, IDOP
+  - Familiar with AWS, Jenkins, IDOP
 - Version Control Systems
   - Proficient in Git and GitHub usage
 - Project Management Tools
-  - JIRA, Firebase, Monday.com
+  - JIRA, Postman
 
 ## Work Experience
 - Ex Software Developer at Accenture
 
+## Leetcode Profile
+- https://leetcode.com/u/premsaiarroju/
+
 ## AWS Community Profile
 - https://community.aws/@premsaiarroju19
-  
-
