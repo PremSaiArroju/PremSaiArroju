@@ -22,7 +22,7 @@
 ## Work Experience
 - Ex Software Developer at Accenture
 
-## AWS COMMUNITY PROFILE
+## AWS Community Profile
 - https://community.aws/@premsaiarroju19
   
 
