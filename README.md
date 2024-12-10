@@ -19,9 +19,6 @@
 - Project Management Tools
   - JIRA, Postman
 
-## Work Experience
-- Ex Software Developer at Accenture
-
 ## Leetcode Profile
 - https://leetcode.com/u/premsaiarroju/
 
