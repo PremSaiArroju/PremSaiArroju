@@ -1,9 +1,7 @@
-# Software Developer
+## Software Developer
 
 ## Professional Summary
-- Full Stack Developer
-- Committed to continuous learning and excellence
-- Experienced in Dynamic Development Environments
+- Committed to continuous learning
 
 ## Technical Skills
 - Frontend Development
