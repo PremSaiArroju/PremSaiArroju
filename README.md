@@ -22,3 +22,6 @@
 
 ## AWS Community Profile
 - https://community.aws/@premsaiarroju19
+
+## Medium Profile
+- https://medium.com/@premsaiarroju
